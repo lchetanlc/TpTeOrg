@@ -154,7 +154,7 @@ body{
 		font-size: 53px;
 	}
 	.team-section{
-		background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);;
+		background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 	}
 	
 }
@@ -164,7 +164,7 @@ body{
 	}
 	
 	.team-section{
-		background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);;
+		background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 	}
 }
 @media(max-width:377px)
